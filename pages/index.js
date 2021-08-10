@@ -14,7 +14,7 @@ export default function Index({ allPosts }) {
     <>
       <Layout>
         <Head>
-          <title>Next.js Blog Example with {CMS_NAME}</title>
+          <title>Mukut Brahma - Portfolio</title>
         </Head>
         <Container>
           <Intro />
