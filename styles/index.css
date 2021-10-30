@@ -12,4 +12,10 @@
 @tailwind utilities;
 /* Stop purging. */
 
-/* Your own custom utilities */
+
+/* Fonts:  Rubik Lora */
+@import url('https://fonts.googleapis.com/css2?family=Lora:wght@400;700&display=swap');
+
+body {
+    font-family: 'Lora', sans-serif;
+}
