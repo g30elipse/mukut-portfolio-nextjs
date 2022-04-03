@@ -17,7 +17,7 @@ function About(props) {
                     Currently in the process of going fullstack.
                     <br />
                     <br />
-                    Apart from coding, I love to play table tennis, watch movies and listen to music. Also, an amateur piano player.
+                    Apart from coding, I do painting in my free hours; love to play table tennis, watch movies and listen to music. Also, an amateur piano player.
                 </p>
 
             </div>
