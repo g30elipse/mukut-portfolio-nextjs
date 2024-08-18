@@ -9,7 +9,7 @@ function About(props) {
             <div className='max-w-md'>
                 <p className='text-2xl font-bold'>Frontend Developer</p>
                 <p className='text-md'>mukutb.mac@gmail.com</p>
-                <p className='text-md'>28 M, India</p>
+                <p className='text-md'>30 M, India</p>
                 <p className='text-md mt-10'>
                     A Frontend Developer with a passion for building beautiful and functional web applications.
                     Have a sound background in web development and have worked with a wide range of technologies especially React and React based frameworks.
